@@ -1,0 +1,1 @@
+{"dbtap.AccVal":{"owner":"sns_dbtap","ALGO_DBP_AccSHOLD":{"type":"flt","ver":"0","data":"0.200000"},"ALGO_DBP_minAcc":{"type":"flt","ver":"0","data":"0.230000"},"ALGO_DBP_AccSlope":{"type":"flt","ver":"0","data":"0.450000"}}}

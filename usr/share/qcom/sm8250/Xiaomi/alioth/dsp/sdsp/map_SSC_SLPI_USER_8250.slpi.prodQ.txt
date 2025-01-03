@@ -1,0 +1,2 @@
+../../build/ms/dynamic_modules/8250.slpi.prod/sns_bring_to_ear.so
+../../build/ms/dynamic_modules/8250.slpi.prod/wigig_sensing.so
